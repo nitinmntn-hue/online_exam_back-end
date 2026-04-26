@@ -1,0 +1,26 @@
+{
+  "name": "online_exam_back-end",
+  "version": "1.0.0",
+  "description": "Node js and My SQL with the help of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinmntn-hue/online_exam_back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nitinmntn-hue/online_exam_back-end/issues"
+  },
+  "homepage": "https://github.com/nitinmntn-hue/online_exam_back-end#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
